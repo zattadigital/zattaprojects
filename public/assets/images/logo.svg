@@ -1,0 +1,7 @@
+<svg width="120" height="60" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background triangle -->
+  <polygon points="15,50 60,10 105,50" fill="#59baf2" stroke="none"/>
+  <!-- Foreground triangle -->
+  <polygon points="25,40 60,20 95,40" fill="white" stroke="none"/>
+</svg>
+

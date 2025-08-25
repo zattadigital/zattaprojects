@@ -1,0 +1,367 @@
+{
+  "nav": {
+    "home": "Home",
+    "skills": "Skills",
+    "experience": "Experience",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello",
+    "name": "I'm Diogo Moser,",
+    "roles": {
+      "fullstack": "FullStack Developer",
+      "frontend": "Frontend Developer.",
+      "backend": "Backend Developer.",
+      "mobile": "Mobile Developer.",
+      "devops": "DevOps Engineer."
+    },
+    "description": "Over 7 years of experience developing scalable e-commerce solutions for major brands.",
+    "viewPortfolio": "View Portfolio",
+    "downloadCV": "Download CV"
+  },
+  "counter": {
+    "experience": "Years of Experience",
+    "projects": "Delivered Projects",
+    "clients": "Satisfied Clients",
+    "technologies": "Mastered Technologies",
+    "recommendations": "Recommendations",
+    "description": "Committed to delivering high-quality results and strong adaptability to new technologies"
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Skills",
+    "description": "Technologies and tools I master to create complete digital solutions."
+  },
+  "certifications": {
+    "title": "Certifications",
+    "subtitle": "Certifications",
+    "description": "Certifications and Courses taken to improve my skills and knowledge.",
+    "items": {
+      "oracle2023": {
+        "title": "Oracle Cloud 2023 Foundations",
+        "description": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate - DEC 2023"
+      },
+      "scrum": {
+        "title": "Scrum Foundation",
+        "description": "Scrum framework fundamentals for agile project management - NOV 2023"
+      },
+      "aws": {
+        "title": "AWS Cloud Practitioner",
+        "description": "Basic certification in Amazon Web Services - SEP 2023"
+      }
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "Experience",
+    "description": "My professional journey building innovative solutions.",
+    "jobs": {
+      "nsh": {
+        "title": "Full Stack Developer",
+        "company": "NSH TECHNOLOGIES",
+        "period": "Mar 2023 - Jun 2025",
+        "description": "Development using Oracle Commerce Cloud (OCC), Node.js, webhooks and payment integrations. UI implementation with OSF, React, Redux, Jest and Testing Library. Building large-scale pages like PDP, PLP, Checkout Shipping, and Checkout Payment. Key projects: Armazém Paraíba, PagaLeve, Rheem (Brazil, Peru, Colombia and Mexico)"
+      },
+      "compass": {
+        "title": "Full Stack Developer",
+        "company": "COMPASS UOL",
+        "period": "Mar 2021 - Apr 2023",
+        "description": "Development using Oracle Commerce Cloud (OCC), Node.js, webhooks and payment integrations. UI implementation with OSF, React, Redux. Building large-scale pages like PDP, PLP, Checkout Shipping, and Checkout Payment. Key projects: Grendene(Nuar, Conexão Melissa, Rider), Marfrig"
+      },
+      "allinsys": {
+        "title": "Web Developer",
+        "company": "ALLINSYS",
+        "period": "Jul 2019 - Aug 2020",
+        "description": "Development of e-commerce with PHP, MySQL, JavaScript, Grunt, Jquery, Bootstrap, Sass, among other technologies"
+      },
+      "cimol": {
+        "title": "Intern Developer",
+        "company": "CIMOL",
+        "period": "Jan 2019 - Jun 2019",
+        "description": "Development of system to manage student lockers. Using PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, Jquery, among other technologies"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Transforming Ideas into Results",
+    "subtitle": "Portfolio",
+    "description": "Here you can see some of my projects in production.",
+    "viewDetails": "View Implementation Details",
+    "accessProject": "ACCESS PROJECT",
+    "close": "CLOSE",
+    "featuresTitle": "Main features developed:",
+    "technologiesTitle": "Technologies used:",
+    "projects": [
+      {
+        "title": "Melissa B2B",
+        "url": "https://b2bmelissa.grendene.com.br",
+        "image": "/assets/images/portfolio/melissa-b2b.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2B platform for Melissa's resellers, with complete checkout and specific features for the fashion market.",
+        "description": "I participated in the development of the B2B platform for Melissa from conception to final delivery. The project required collaboration with multiple teams (Frontend, Backend, QA, Architecture and Client) to create a scalable, efficient and fully adapted solution to the needs of resellers. The platform was designed to optimize purchase, order and catalog management flows, ensuring practicality and a better user experience in the corporate environment.",
+        "features": [
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation of configurable and reusable components for consistency and scalability",
+          "Implementation of detailed product pages (PDP) with integrated information",
+          "Complete development of the B2B checkout flow",
+          "Implementation of the Split delivery (home delivery + store pickup)",
+          "Integration with real-time stock and freight calculation API",
+          "Account management features: update data, order summary and details, password change and more",
+          "Catalog management, filters and settings via OCC panel",
+          "Code reviews and refactoring for continuous improvement"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries, quality and collaboration between multidisciplinary teams."
+      },
+      {
+        "title": "Mercado Marfrig",
+        "url": "https://www.marfrig.com.br",
+        "image": "/assets/images/portfolio/mercadomarfrig.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2B platform for Marfrig's customers, with focus on scalability and user experience.",
+        "description": "I participated in the development of the B2B platform for Marfrig from conception to final delivery. The project required intense collaboration with frontend, backend, QA, architecture and client stakeholders to create a robust, scalable and user-oriented solution. The result was an efficient platform for order and sales management.",
+        "features": [
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation of configurable and reusable components for greater productivity and consistency",
+          "Implementation of detailed product page (PDP) with integrated information",
+          "Interactive sales dashboard with performance metrics",
+          "Complete account management features: update data, order summary and details, password change and more",
+          "Catalog management, filters and settings directly via OCC panel",
+          "Code reviews and refactoring to ensure quality and consistent standards"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries, quality and collaboration between multidisciplinary teams."
+      },
+      {
+        "title": "Rheem B2C Peru",
+        "url": "https://tienda.rheem.com.pe",
+        "image": "/assets/images/portfolio/rheem-pe.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2C e-commerce for Rheem in Peru, with advanced payment and stock integrations.",
+        "description": "Project of B2C e-commerce for Rheem Peru. I implemented the complete checkout flow with split delivery (home delivery + store pickup), integration with real-time stock and freight calculation APIs, and payment integration via MercadoPago. The focus was to ensure a reliable and convenient shopping experience for customers.",
+        "features": [
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation of configurable and reusable components for greater productivity and consistency",
+          "Implementation of detailed product page (PDP) with integrated information",
+          "Complete checkout with split delivery (home delivery + store pickup)",
+          "Integration with real-time stock and freight calculation APIs",
+          "Payment integration via MercadoPago, expanding local payment options",
+          "Catalog management, components, filters and settings via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, Jest, React Testing Library, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Rheem B2B Brasil",
+        "url": "https://b2b.rheem.com.br",
+        "image": "/assets/images/portfolio/rheem-b2b.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2B e-commerce platform for Rheem Brazil, with focus on catalog, price and checkout management.",
+        "description": "Project of B2B e-commerce for Rheem Brazil. The project brought greater efficiency in order management and flexibility for corporate customers.",
+        "features": [
+          "Switch of catalogs and personalized price lists for different types of B2B customers",
+          "Creation of configurable and reusable components for greater productivity and consistency",
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Implementation of detailed product pages (PDP) with integrated stock",
+          "Management of catalogs, components, filters and settings of the site via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, Jest, React Testing Library, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Rheem B2C Colômbia",
+        "url": "https://www.tienda.rheem.com.co",
+        "image": "/assets/images/portfolio/rheem-co.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2C e-commerce for Rheem in Colombia, with advanced integrations and focus on usability.",
+        "description": "Project of B2C e-commerce for Rheem Colombia. I implemented the complete checkout flow with split delivery (home delivery + store pickup), integration with real-time stock and freight calculation APIs, and payment integration via PayU. The focus was to offer a fluid and secure shopping experience for customers.",
+        "features": [
+          "Creation of configurable and reusable components to optimize development and maintenance",
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Implementation of detailed product pages (PDP) with integrated stock",
+          "Checkout with split delivery (home delivery + store pickup), improving flexibility for the customer",
+          "Integration with real-time stock and freight calculation APIs",
+          "Payment integration via PayU, ensuring security and reliability",
+          "Catalog management, price lists, filters and components via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Rheem B2C México",
+        "url": "https://www.tienda.rheem.com.mx",
+        "image": "/assets/images/portfolio/rheem-mx.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "B2C e-commerce for Rheem in Mexico, with focus on performance and complex integrations.",
+        "description": "Project of B2C e-commerce for Rheem Mexico. I implemented advanced features like split delivery (home delivery + store pickup), real-time stock and freight calculation APIs, and payment integration via PayU. The focus was to improve the user experience and optimize the shopping journey.",
+        "features": [
+          "Creation of configurable and reusable components to increase productivity",
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Implementation of detailed product pages (PDP) with integrated stock",
+          "Construction of checkout with split delivery (home delivery + store pickup)",
+          "Integration with real-time stock and freight calculation APIs",
+          "Management of catalog, price lists, filters and components via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Armazém Paraíba",
+        "url": "https://www.armazemparaiba.com.br",
+        "image": "/assets/images/portfolio/armazem.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Jest",
+          "Scrum"
+        ],
+        "shortDescription": "B2C e-commerce for Armazém Paraíba, focused on scalability and high performance.",
+        "description": "Project of B2C e-commerce for Armazém Paraíba. I implemented the complete checkout flow with split delivery (home delivery + store pickup), integration with real-time stock and freight calculation APIs, and payment integration via MercadoPago. The focus was to ensure a reliable and convenient shopping experience for customers.",
+        "features": [
+          "Creation of reusable and configurable components to increase productivity",
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Implementation of detailed product page (PDP) with integrated stock",
+          "Development of Wishlist and Favorites features",
+          "Management and configuration of catalog, price lists, filters and components via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Cofry",
+        "url": "https://www.cofry.com.br",
+        "image": "/assets/images/portfolio/cofry.png",
+        "technologies": [
+          "PHP",
+          "Javascript",
+          "Jquery",
+          "Grunt",
+          "Bootstrap SASS",
+          "Figma"
+        ],
+        "shortDescription": "Cashback site for Cofry",
+        "description": "Cashback site for Cofry. I developed the layout from Figma and implemented the API in PHP for integration with cashback partners.",
+        "features": [
+          "Development of API in PHP for integration with cashback partners",
+          "Implementation of layout proposed by the client through Figma",
+          "Development of components using Javascript, Jquery, Grunt, Bootstrap SASS, among other technologies"
+        ],
+        "detailedTechnologies": "Backend developed in PHP, frontend developed in Javascript, Jquery, Grunt, Bootstrap SASS, among other technologies."
+      },
+      {
+        "title": "Trudys",
+        "url": "https://www.trudys.com.br",
+        "image": "/assets/images/portfolio/trudys.png",
+        "technologies": [
+          "PHP",
+          "Javascript",
+          "Jquery",
+          "Grunt",
+          "Bootstrap SASS",
+          "Figma"
+        ],
+        "shortDescription": "B2C e-commerce for Trudys",
+        "description": "B2C e-commerce for Trudys. I developed the layout from Figma and implemented the API in PHP for integration with cashback partners.",
+        "features": [
+          "Development of layout proposed by the client through Figma",
+          "Development of components using Javascript, Jquery, Grunt, Bootstrap SASS, among other technologies"
+        ],
+        "detailedTechnologies": "Backend developed in PHP, frontend developed in Javascript, Jquery, Grunt, Bootstrap SASS, among other technologies."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What They Say About Me",
+    "subtitle": "Testimonials",
+    "loading": "Loading testimonials..."
+  },
+  "contact": {
+    "title": "Let's build something amazing together? 🚀",
+    "subtitle": "GET IN TOUCH",
+    "description": "Have a project in mind, a question, or just want to say hello? Feel free to get in touch! I'm always open to discuss.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again.",
+      "loading": "Loading contact form..."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "tagline": "Get Ready To Create Great",
+    "links": "Links",
+    "about": "About me",
+    "contact": "Contact",
+    "followMe": "Follow me"
+  },
+  "whatsapp": {
+    "message": "Hello! I'd like to talk about a project.",
+    "tooltip": "Let's chat on WhatsApp!",
+    "title": "💬 Let's chat?",
+    "description": "Click here to talk to me on WhatsApp about development opportunities!",
+    "buttonTitle": "Contact via WhatsApp",
+    "minimizeTitle": "Minimize"
+  },
+  "language": {
+    "banner": {
+      "message": "Portuguese version available",
+      "yes": "Yes",
+      "no": "No, thanks"
+    },
+    "selector": {
+      "portuguese": "Português",
+      "english": "English"
+    }
+  }
+}
