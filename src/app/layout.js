@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Diogo Moser - Full Stack Developer',
-  description: 'Portfólio profissional de Diogo Moser, desenvolvedor Full Stack com mais de 7 anos de experiência',
+  title: 'Diogo - Full Stack Developer',
+  description: 'Portfólio profissional de Diogo, desenvolvedor Full Stack com mais de 7 anos de experiência',
 };
 
 export default function RootLayout({ children }) {
