@@ -61,7 +61,7 @@
         "title": "Full Stack Developer",
         "company": "NSH TECHNOLOGIES",
         "period": "Mar 2023 - Jun 2025",
-        "description": "Development using Oracle Commerce Cloud (OCC), Node.js, webhooks and payment integrations. UI implementation with OSF, React, Redux, Jest and Testing Library. Building large-scale pages like PDP, PLP, Checkout Shipping, and Checkout Payment. Key projects: Armazém Paraíba, PagaLeve, Rheem (Brazil, Peru, Colombia and Mexico)"
+        "description": "Development using Oracle Commerce Cloud (OCC), Node.js, webhooks and payment integrations. Implementation of UI with OSF, React, Redux, Jest and Testing Library. Building large-scale pages like PDP, PLP, Checkout Shipping, and Checkout Payment. Key projects: Armazém Paraíba, PagaLeve, Rheem (Brazil, Peru, Colombia, Mexico and Chile)"
       },
       "compass": {
         "title": "Full Stack Developer",
@@ -104,6 +104,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2B platform for Melissa's resellers, with complete checkout and specific features for the fashion market.",
@@ -111,6 +112,7 @@
         "features": [
           "Development of product listing pages (PLP) with advanced filters using Endeca",
           "Creation of configurable and reusable components for consistency and scalability",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
           "Implementation of detailed product pages (PDP) with integrated information",
           "Complete development of the B2B checkout flow",
           "Implementation of the Split delivery (home delivery + store pickup)",
@@ -132,6 +134,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2B platform for Marfrig's customers, with focus on scalability and user experience.",
@@ -158,6 +161,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2C e-commerce for Rheem in Peru, with advanced payment and stock integrations.",
@@ -165,6 +169,35 @@
         "features": [
           "Development of product listing pages (PLP) with advanced filters using Endeca",
           "Creation of configurable and reusable components for greater productivity and consistency",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
+          "Implementation of detailed product page (PDP) with integrated information",
+          "Complete checkout with split delivery (home delivery + store pickup)",
+          "Integration with real-time stock and freight calculation APIs",
+          "Payment integration via MercadoPago, expanding local payment options",
+          "Catalog management, components, filters and settings via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, Jest, React Testing Library, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Termas Bryant",
+        "url": "https://www.termasbryant.com",
+        "image": "/assets/images/portfolio/termas.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Figma",
+          "Scrum"
+        ],
+        "shortDescription": "B2C e-commerce for Termas Bryant(Rheem), with advanced payment and stock integrations.",
+        "description": "Project of B2C e-commerce for Termas Bryant(Rheem). I implemented the complete checkout flow with split delivery (home delivery + store pickup), integration with real-time stock and freight calculation APIs, and payment integration via MercadoPago. The focus was to ensure a reliable and convenient shopping experience for customers.",
+        "features": [
+          "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation of configurable and reusable components for greater productivity and consistency",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
           "Implementation of detailed product page (PDP) with integrated information",
           "Complete checkout with split delivery (home delivery + store pickup)",
           "Integration with real-time stock and freight calculation APIs",
@@ -184,6 +217,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2B e-commerce platform for Rheem Brazil, with focus on catalog, price and checkout management.",
@@ -191,6 +225,7 @@
         "features": [
           "Switch of catalogs and personalized price lists for different types of B2B customers",
           "Creation of configurable and reusable components for greater productivity and consistency",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
           "Development of product listing pages (PLP) with advanced filters using Endeca",
           "Implementation of detailed product pages (PDP) with integrated stock",
           "Management of catalogs, components, filters and settings of the site via OCC panel"
@@ -208,6 +243,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2C e-commerce for Rheem in Colombia, with advanced integrations and focus on usability.",
@@ -215,6 +251,7 @@
         "features": [
           "Creation of configurable and reusable components to optimize development and maintenance",
           "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
           "Implementation of detailed product pages (PDP) with integrated stock",
           "Checkout with split delivery (home delivery + store pickup), improving flexibility for the customer",
           "Integration with real-time stock and freight calculation APIs",
@@ -234,6 +271,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "B2C e-commerce for Rheem in Mexico, with focus on performance and complex integrations.",
@@ -241,10 +279,34 @@
         "features": [
           "Creation of configurable and reusable components to increase productivity",
           "Development of product listing pages (PLP) with advanced filters using Endeca",
+          "Creation and customization of email templates in OCC, ensuring visual consistency and customization for different types of notifications",
           "Implementation of detailed product pages (PDP) with integrated stock",
           "Construction of checkout with split delivery (home delivery + store pickup)",
           "Integration with real-time stock and freight calculation APIs",
           "Management of catalog, price lists, filters and components via OCC panel"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
+      },
+      {
+        "title": "Rheem B2C Chile",
+        "url": "https://www.rheemchile.cl",
+        "image": "/assets/images/portfolio/rheem-cl.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "E-commerce B2C for Rheem in Chile, with advanced payment and stock integrations.",
+        "description": "Project of B2C e-commerce for Rheem Chile. I implemented improvements in critical parts of the project to avoid breaking features and ensure the best shopping experience for customers.",
+        "features": [
+          "Refactoring of critical checkout features",
+          "Refactoring of product search and filter components",
+          "Performance improvement in product listing page",
+          "Standardization of components and styles to ensure consistency and scalability"
         ],
         "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integration with REST APIs of Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Methodology: Scrum, with focus on incremental deliveries and quality."
       },
@@ -259,6 +321,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Jest",
           "Scrum"
         ],

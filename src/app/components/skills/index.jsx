@@ -16,7 +16,7 @@ const Skills = ({ locale, translations }) => {
     },
     {
       name: "TypeScript",
-      percentage: 80,
+      percentage: 70,
     },
     {
       name: "Jest/Testing Library",

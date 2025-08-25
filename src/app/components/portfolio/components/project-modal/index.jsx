@@ -104,6 +104,7 @@ const ProjectModal = ({ isOpen, onClose, project, translations }) => {
                 <div className="text-content">
                   <h3>{project.title}</h3>
                   <p>
+                    <i className="fa-solid fa-globe" style={{ marginRight: "5px" }} />
                     <a
                       href={project.url}
                       target="_blank"

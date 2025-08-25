@@ -61,13 +61,13 @@
         "title": "Full Stack Developer",
         "company": "NSH TECHNOLOGIES",
         "period": "Mar 2023 - Jun 2025",
-        "description": "Desenvolvimento usando Oracle Commerce Cloud (OCC), Node.js, webhooks e integrações de pagamento Implementação de UI com OSF, React, Redux, Jest e Testing Library Construção de páginas em grande escala como PDP, PLP, Checkout Shipping, e Checkout Payment Projetos-chave: Armazém Paraíba, PagaLeve, Rheem (Brasil, Peru, Colômbia e México)"
+        "description": "Desenvolvimento usando Oracle Commerce Cloud (OCC), Node.js, webhooks e integrações de pagamento. Implementação de UI com OSF, React, Redux, Jest e Testing Library. Construção de páginas em grande escala como PDP, PLP, Checkout Shipping, e Checkout Payment. Projetos-chave: Armazém Paraíba, PagaLeve, Rheem (Brasil, Peru, Colômbia, México e Chile)"
       },
       "compass": {
         "title": "Full Stack Developer",
         "company": "COMPASS UOL",
         "period": "Mar 2021 - Abr 2023",
-        "description": "Desenvolvimento usando Oracle Commerce Cloud (OCC), Node.js, webhooks e integrações de pagamento Implementação de UI com OSF, React, Redux, Construção de páginas em grande escala como PDP, PLP, Checkout Shipping, e Checkout Payment Projetos-chave: Grendene(Nuar, Conexão Melissa, Rider), Marfrig"
+        "description": "Desenvolvimento usando Oracle Commerce Cloud (OCC), Node.js, webhooks e integrações de pagamento. Implementação de UI com OSF, React, Redux, Construção de páginas em grande escala como PDP, PLP, Checkout Shipping, e Checkout Payment Projetos-chave: Grendene(Nuar, Conexão Melissa, Rider), Marfrig"
       },
       "allinsys": {
         "title": "Web Developer",
@@ -104,6 +104,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "Plataforma B2B robusta para revendedores Melissa, com checkout completo e funcionalidades específicas para o mercado de moda.",
@@ -111,6 +112,7 @@
         "features": [
           "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados utilizando Endeca",
           "Criação de componentes configuráveis e reutilizáveis para consistência e escalabilidade",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
           "Implementação de páginas de produto (PDP) com informações detalhadas",
           "Desenvolvimento completo do fluxo de checkout B2B",
           "Implementação do Split de entrega (domicílio + retirada em loja)",
@@ -132,6 +134,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "Plataforma B2B de vendas online para empresas de alimentos e açougues, com foco em escalabilidade e experiência do usuário.",
@@ -158,6 +161,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "E-commerce B2C para a Rheem no Peru, com integrações avançadas de pagamento e estoque.",
@@ -165,6 +169,35 @@
         "features": [
           "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados usando Endeca",
           "Criação de componentes configuráveis e reutilizáveis para maior produtividade e consistência",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
+          "Implementação de página de produto (PDP) detalhada com informações integradas",
+          "Checkout completo com split de entrega (domicílio + retirada em loja)",
+          "Integração com API para consulta de estoque em tempo real e cálculo automático de frete",
+          "Integração de pagamento com MercadoPago, ampliando opções de pagamento locais",
+          "Gestão de catálogo, componentes, filtros e configurações via painel do OCC"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, Jest, React Testing Library, integração com APIs REST do Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Metodologia: Scrum com foco em entregas incrementais e de qualidade."
+      },
+      {
+        "title": "Termas Bryant",
+        "url": "https://www.termasbryant.com",
+        "image": "/assets/images/portfolio/termas.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Figma",
+          "Scrum"
+        ],
+        "shortDescription": "E-commerce B2C para Termas Bryant(Rheem), com integrações avançadas de pagamento e estoque.",
+        "description": "Projeto de e-commerce B2C para Termas Bryant(Rheem). Atuei na implementação do fluxo completo de checkout com split de entrega (domicílio + retirada em loja), integração com APIs de estoque em tempo real, cálculo de frete dinâmico e integração de pagamentos via MercadoPago. O foco foi garantir uma experiência de compra confiável e conveniente para os clientes.",
+        "features": [
+          "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados usando Endeca",
+          "Criação de componentes configuráveis e reutilizáveis para maior produtividade e consistência",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
           "Implementação de página de produto (PDP) detalhada com informações integradas",
           "Checkout completo com split de entrega (domicílio + retirada em loja)",
           "Integração com API para consulta de estoque em tempo real e cálculo automático de frete",
@@ -184,6 +217,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "Plataforma de e-commerce B2B para a Rheem Brasil, com foco em gestão de catálogos, preços e fluxo de checkout.",
@@ -191,6 +225,7 @@
         "features": [
           "Switch de catálogos e listas de preços personalizados para diferentes tipos de clientes B2B",
           "Criação de componentes configuráveis e reutilizáveis para maior produtividade e consistência",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
           "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados via Endeca",
           "Implementação de páginas de produto (PDP) detalhadas com integração de estoque",
           "Gestão de catálogos, componentes, filtros e configurações do site via painel OCC"
@@ -208,6 +243,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "E-commerce B2C desenvolvido para a Rheem na Colômbia, com integrações avançadas e foco em usabilidade.",
@@ -215,6 +251,7 @@
         "features": [
           "Criação de componentes configuráveis e reutilizáveis para otimizar o desenvolvimento e manutenção",
           "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados utilizando Endeca",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
           "Implementação de páginas de produto (PDP) detalhadas com integração de estoque",
           "Checkout com split de entrega (domicílio + retirada em loja), melhorando a flexibilidade para o cliente",
           "Integração com API para consulta de estoque em tempo real e cálculo de frete",
@@ -234,6 +271,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Scrum"
         ],
         "shortDescription": "E-commerce B2C desenvolvido para a Rheem no México, com foco em performance e integrações complexas.",
@@ -241,10 +279,34 @@
         "features": [
           "Criação de componentes configuráveis e reutilizáveis para aumentar a produtividade do time",
           "Desenvolvimento de páginas de listagem de produtos (PLP) com filtros avançados via Endeca",
+          "Criação e customização de templates de e-mail no OCC, garantindo consistência visual e personalização para diferentes tipos de notificações",
           "Implementação de páginas de produto (PDP) com informações detalhadas e integração com estoque",
           "Construção do checkout com funcionalidade de split de entrega (domicílio + retirada em loja)",
           "Integração com APIs para consulta de estoque em tempo real e cálculo dinâmico de frete",
           "Gestão de catálogo de produtos, listas de preços, filtros e componentes pelo painel OCC"
+        ],
+        "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integração com APIs REST do Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Metodologia: Scrum com foco em entregas incrementais e de qualidade."
+      },
+      {
+        "title": "Rheem B2C Chile",
+        "url": "https://www.rheemchile.cl",
+        "image": "/assets/images/portfolio/rheem-cl.png",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Redux",
+          "OCC",
+          "OSF",
+          "API Integration",
+          "Scrum"
+        ],
+        "shortDescription": "E-commerce Rheem B2C Chile. Projeto legado, com integrações avançadas de pagamento e estoque.",
+        "description": "Projeto de e-commerce B2C Chile legado da Rheem, com implementação de melhorias em partes críticas do projeto, afim de evitar quebra de funcionalidades e garantir a melhor experiência de compra para os clientes.",
+        "features": [
+          "Refatoração de funcionalidades críticas do checkout",
+          "Refatoração de componentes de busca e filtro de produtos",
+          "Melhoria de performance na página de listagem de produtos",
+          "Padronização de componentes e estilos para garantir consistência e escalabilidade"
         ],
         "detailedTechnologies": "Frontend: React.js, Redux, Styled-Components, integração com APIs REST do Oracle Commerce Cloud (OCC). Backend: Node.js, Express. Metodologia: Scrum com foco em entregas incrementais e de qualidade."
       },
@@ -259,6 +321,7 @@
           "OCC",
           "OSF",
           "API Integration",
+          "Figma",
           "Jest",
           "Scrum"
         ],
