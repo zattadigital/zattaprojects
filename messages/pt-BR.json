@@ -90,7 +90,7 @@
     "viewDetails": "Ver Detalhes Que Implementei",
     "accessProject": "ACESSAR PROJETO",
     "close": "FECHAR",
-    "featuresTitle": "Principais funcionalidades desenvolvidas:",
+    "featuresTitle": "Principais funcionalidades que desenvolvi:",
     "technologiesTitle": "Tecnologias utilizadas:",
     "projects": [
       {
@@ -376,6 +376,23 @@
           "Desenvolvimento de componentes utilizando Javascript, Jquery, Grunt, Bootstrap SASS, entre outras tecnologias"
         ],
         "detailedTechnologies": "Backend desenvolvido em PHP, frontend desenvolvido em Javascript, Jquery, Grunt, Bootstrap SASS, entre outras tecnologias."
+      },
+      {
+        "title": "Faster TV",
+        "url": "https://fastertv.vercel.app",
+        "image": "/assets/images/portfolio/fasterTV.png",
+        "technologies": ["Next.js", "React"],
+        "shortDescription": "Landing Page com SEO avançado e performance otimizada, resultando em +40% de conversão e maior satisfação do cliente.",
+
+        "description": "Desenvolvi e otimizei a landing page da empresa Faster TV aplicando técnicas avançadas de SEO e melhoria de performance, o que reduziu significativamente o tempo de carregamento, aumentou o tráfego orgânico e gerou um crescimento de 40% na taxa de conversão, elevando também a satisfação do cliente.",
+
+        "features": [
+          "Desenvolvimento de layout moderno com base na identidade visual e versão anterior",
+          "Aplicação de técnicas de SEO on-page e otimização de performance",
+          "Posicionamento em destaque nas primeiras páginas do Google para o termo 'IPTV'",
+          "Aumento de 40% na taxa de conversão e satisfação do cliente"
+        ],
+        "detailedTechnologies": "Frontend desenvolvido em Next.js, React, entre outras tecnologias."
       }
     ]
   },
